@@ -1,0 +1,7 @@
+CREATE APP
+ pnpm create react-app appname --template typescript
+
+
+ SET UP TAILWIND CSS
+ - pnpm install -D tailwindcss
+ - pnpm tailwindcss init
